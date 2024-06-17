@@ -66,7 +66,7 @@
                             <span class="text-xl font-bold">BookX</span>
                         </div>
                         <p class="pt-5 text-base text-primary-gray">
-                            Ce site est un travail TP réalisé par Abdelali Ichou. Il est destiné à la gestion des réservations d'un hôtel.
+                            Ce site est un travail TP réalisé par Ilyas BENHAMMADI. Il est destiné à la gestion des réservations d'un hôtel.
                         </p>
                     </section>
                     <section>
@@ -78,7 +78,7 @@
                         </ul>
                     </section>
                 </nav>
-                <p class="text-center text-primary-gray">@ Copyright 2024 Abdelali Ichou. All Rights Reserved.</p>
+                <p class="text-center text-primary-gray">@ Copyright 2024 Ilyas BENHAMMADI. All Rights Reserved.</p>
             </div>
         </footer>
     </div>
