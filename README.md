@@ -1,5 +1,5 @@
 # PHP Crud App
-A php website demo for booking CRUD operations, for a school assignement.
+A php website demo for booking CRUD operations with file storage, for a school assignement.
 ## Getting Started
 ### Clone the Repository to your web server location
   ```bash
